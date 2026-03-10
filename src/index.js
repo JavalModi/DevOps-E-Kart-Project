@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
+/* import React, { useState } from 'react';
 import ReactDOM from 'react-dom/client';
 import '../node_modules/font-awesome/css/font-awesome.min.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from './redux/store';
-import { Auth0Provider } from '@auth0/auth0-react';
+// import { Auth0Provider } from '@auth0/auth0-react';
 
 
 import { Home, Product, Products, AboutPage, ContactPage, Cart, Login, Register, Checkout, PageNotFound, index } from "./pages"
@@ -32,5 +32,21 @@ root.render(
         </Provider>
   </>
 );
-
+*/
 // export default index;
+ 
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import '../node_modules/font-awesome/css/font-awesome.min.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import { Provider } from 'react-redux';
+import store from './redux/store';
+import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+
+root.render(
+  <Provider store={store}>
+    <App />
+  </Provider>
+);
