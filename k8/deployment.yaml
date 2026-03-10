@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ekart-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ekart
+  template:
+    metadata:
+      labels:
+        app: ekart
+    spec:
+      containers:
+      - name: ekart-container
+        image: javalmodi/ekart-react-app:latest
+        ports:
+        - containerPort: 80
