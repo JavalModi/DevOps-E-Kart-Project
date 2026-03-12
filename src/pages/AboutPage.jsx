@@ -19,7 +19,7 @@ But we're more than just a platform – we're a community driven by shared value
 
 Join us on this exciting journey as we continue to innovate and elevate your online shopping experience. Thank you for choosing E-Kart – where shopping meets satisfaction.<br></br>
     <strong>E-Kart Team!</strong>
-    <strong>JAVAL MODI</strong>
+    <strong> JAVAL MODI </strong>
 
         </p>
 
