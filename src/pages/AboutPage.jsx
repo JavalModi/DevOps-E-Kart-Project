@@ -9,7 +9,7 @@ const AboutPage = () => {
         <h1 className="text-center"><i class="fa-regular fa-address-card"></i> About Us</h1>
         <hr />
         <p className="lead text-center">
-        Welcome to E-Kart,made by javal modi your ultimate destination for seamless online shopping experiences! Founded in 2023, offering a vast array of products and services tailored to your needs.
+        Welcome to E-Kart,made your ultimate destination for seamless online shopping experiences! Founded in 2023, offering a vast array of products and services tailored to your needs.
 
 At E-Kart, we understand that convenience, quality, and reliability are paramount to your shopping journey. That's why we've curated a diverse selection of products ranging from fashion and electronics to home essentials and beyond. Whether you're seeking the latest trends or timeless classics, we've got you covered.
 
@@ -19,6 +19,7 @@ But we're more than just a platform – we're a community driven by shared value
 
 Join us on this exciting journey as we continue to innovate and elevate your online shopping experience. Thank you for choosing E-Kart – where shopping meets satisfaction.<br></br>
     <strong>E-Kart Team!</strong>
+    <strong>Javal Modi</strong>
 
         </p>
 
