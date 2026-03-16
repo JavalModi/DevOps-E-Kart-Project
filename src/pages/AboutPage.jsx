@@ -18,7 +18,7 @@ Our mission is simple: to empower customers like you with unparalleled convenien
 But we're more than just a platform – we're a community driven by shared values of integrity, innovation, and customer satisfaction. Every interaction with us reflects our dedication to exceeding your expectations and building lasting relationships.
 
 Join us on this exciting journey as we continue to innovate and elevate your online shopping experience. Thank you for choosing E-Kart – where shopping meets satisfaction.<br></br>
-    <strong>E-Kart Team! & Founder:Javal Modi </strong>
+    <strong>E-Kart Team! & Founder : Javal Modi </strong>
            </p>
 
         <h2 className="text-center py-4">Our Products</h2>
